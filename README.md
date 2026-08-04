@@ -4,7 +4,8 @@
 
 🤖 Applied AI & Machine Learning | Software Engineering
 
-**How can we turn data into better decisions and AI into practical tools that make a real impact?** That's the question that drives me to keep learning, building, and exploring new technologies.
+**How can we turn data into better decisions and AI into practical tools that make a real impact?**<br>
+That's the question that drives me to keep learning, building, and exploring new technologies.
 
 I'm passionate about developing intelligent systems by combining machine learning, large language models, and software engineering. Through the **Break Through Tech AI Fellowship**, I've built a strong foundation in both machine learning and applied AI by working through the complete development lifecycle—from cleaning and preparing raw data to training, evaluating, and deploying models.
 
