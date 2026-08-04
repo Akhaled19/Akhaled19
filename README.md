@@ -69,8 +69,8 @@ When I'm not building projects, you'll probably find me oil painting, exploring 
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: *(add your profile link)*
-* 📧 Email: *(add your email)*
+* 💼 [LinkedIn](https://www.linkedin.com/in/azal-khaled/)
+* 📧 [Email](azal.khaled001@umb.edu)
 
 <!--
 **Akhaled19/Akhaled19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
