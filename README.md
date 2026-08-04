@@ -21,7 +21,6 @@ I'm particularly interested in applying AI and machine learning to solve complex
 
 This GitHub is where I document my learning journey, showcase projects, and continue growing as an engineer. 
 
-## ⚙️ Tech Stack
 
 ## ⚙️ Tech Stack
 
